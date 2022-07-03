@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying Data Sience/Database/AI/ML and general finance concepts.
 - 👯 I’m looking to collaborate on engineering in fintech.
 - 💬 Ask me about anything.
-- 📫 How to reach me: shenchikai@outlook.com
+- 📫 How to reach me: cshen23@jhu.edu
