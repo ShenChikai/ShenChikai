@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 >> The louder the bears, the lower the price go 
 >> This creates a vicious cycle -> prices crash violently.
 >> 
->> ###Stage 3: Bottomless Exhaustion 
+>> ### Stage 3: Bottomless Exhaustion 
 >> no bounces; no narratives
 >> Prices consolidate sideways or slowly move down
 >> It's boring; anger is replaced by silence.
