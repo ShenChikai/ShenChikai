@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-> ## Want to share this interesting piece for a better look at market today:
+> ## Want to share this interesting tweet for a better look at the market today:
 >> There was a recent twitter thread written by Jason Yanowitz (co-founder of Blockworks) where he details the three stages of a bear market:
 >> 
 >> https://twitter.com/JasonYanowitz/status/1536365738906202112
