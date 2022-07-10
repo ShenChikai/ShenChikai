@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on engineering in fintech.
 - 💬 Ask me about anything.
 - 📫 How to reach me: cshen23@jhu.edu
-
-
-
+</br>
+</br>
+</br>
 
 > ## Want to share this interesting piece for a better look at market today:
 >> There was a recent twitter thread written by Jason Yanowitz (co-founder of Blockworks) where he details the three stages of a bear market:
