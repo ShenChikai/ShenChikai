@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 
 > ## Want to share this interesting piece for a better look at market today:
 >> There was a recent twitter thread written by Jason Yanowitz (co-founder of Blockworks) where he details the three stages of a bear market:
-
+>> 
 >> https://twitter.com/JasonYanowitz/status/1536365738906202112
-
+>> 
 >> you can read the thread ive attached it but its kind of long so ive summarized it here: 
-
+>> 
 >> ## 3 stages of a bear market; we are in stage 2
-
+>> 
 >> ### Stage 1: The Unwind 
 >> Excitement and greed from the bull market exists 
 >> Assets still have floors 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 >> Feels like prices have pulled back to "realistic" valuations
 >> Investors continue allocating, builders keep building…
 >> Only the weak hands sell.
-
+>> 
 >> ### Stage 2: Forced Capitulation
 >> Narratives die
 >> Layoffs; Prices fall 90%... then another 90%
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 >> The lower prices go, the louder the bears get. 
 >> The louder the bears, the lower the price go 
 >> This creates a vicious cycle -> prices crash violently.
-
+>> 
 >> ###Stage 3: Bottomless Exhaustion 
 >> no bounces; no narratives
 >> Prices consolidate sideways or slowly move down
