@@ -1,7 +1,8 @@
 Here are some ideas to get you started:
 
 
-- 🙋‍♂️ I’m a student at Johns Hopkins University majored in Engineering Management - Computer Science track.  
+- 🙋‍♂️ I’m a graduate student at Johns Hopkins University majored in Engineering Management w/ Computer Science concentraiton.  
+- 🙋‍ I got by bachelor's degree in Computer Science and Computer Engineering from USC.
 - ✨ I'm interested in data processing, front-end development and fintech.
 - 🌱 I’m currently studying Data Sience/Database/AI/ML and general finance concepts.
 - 👯 I’m looking to collaborate on engineering in fintech.
