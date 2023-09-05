@@ -7,5 +7,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: shenchikai@outlook.com
 </br>
-</br>
-</br>
